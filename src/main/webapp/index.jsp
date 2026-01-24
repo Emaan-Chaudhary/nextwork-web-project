@@ -127,7 +127,7 @@
 <body>
 
     <div class="container">
-        <h1>Hi, I’m Emaan  Chaudhary... 👋</h1>
+        <h1>Hi, I’m Emaan  Chaudhary.. 👋</h1>
         <div class="badge">LIVE CI/CD DEPLOYMENT</div>
 
         <p class="caption">
