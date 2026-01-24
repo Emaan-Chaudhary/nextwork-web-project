@@ -131,7 +131,7 @@
         <div class="badge">LIVE CI/CD DEPLOYMENT</div>
 
         <p class="caption">
-            This Java web application is automatically deployed using
+            This Java web Application is automatically deployed using
             <span>AWS CodePipeline</span>,
             <span>CodeBuild</span>, and
             <span>CodeDeploy</span>.
@@ -146,7 +146,7 @@
 
         <div class="status">
             <div class="dot"></div>
-            Deployment Successful
+            Deployment Successful YEAHHH...
         </div>
 
         <div class="footer">
