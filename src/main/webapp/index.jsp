@@ -131,7 +131,7 @@
         <div class="badge">LIVE CI/CD DEPLOYMENT</div>
 
         <p class="caption">
-            This Java web Application is automatically deployed using
+            This Java web Application is automatically  Build and deployed using
             <span>AWS CodePipeline</span>,
             <span>CodeBuild</span>, and
             <span>CodeDeploy</span>.
